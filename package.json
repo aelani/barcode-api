@@ -1,0 +1,10 @@
+{
+  "name": "barcode",
+  "version": "0.0.1",
+  "description": "barcode generator",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.13.0",
+    "bwip-js": "~0.14.0"
+  }
+}

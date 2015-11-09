@@ -30,4 +30,4 @@ app.get('/', function(req, res) {
       }
     });
   }
-}).listen(1337);
+}).listen(process.env.PORT || 8080);
